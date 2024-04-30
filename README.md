@@ -39,5 +39,5 @@ Contributions to the board manager are welcome. Please read the CONTRIBUTING.md 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://topst.ai/tech/docs?TOPST-VCP&Software&Arduino_IDE&License) file for details.
 
